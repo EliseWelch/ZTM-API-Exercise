@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/ZTM-API-Exercise/static/css/main.1bb25e5b.chunk.css",
-    "main.js": "/ZTM-API-Exercise/static/js/main.21bc3320.chunk.js",
-    "main.js.map": "/ZTM-API-Exercise/static/js/main.21bc3320.chunk.js.map",
+    "main.js": "/ZTM-API-Exercise/static/js/main.a54d61b9.chunk.js",
+    "main.js.map": "/ZTM-API-Exercise/static/js/main.a54d61b9.chunk.js.map",
     "runtime-main.js": "/ZTM-API-Exercise/static/js/runtime-main.0d5f384f.js",
     "runtime-main.js.map": "/ZTM-API-Exercise/static/js/runtime-main.0d5f384f.js.map",
     "static/js/2.42dd37ef.chunk.js": "/ZTM-API-Exercise/static/js/2.42dd37ef.chunk.js",
     "static/js/2.42dd37ef.chunk.js.map": "/ZTM-API-Exercise/static/js/2.42dd37ef.chunk.js.map",
     "index.html": "/ZTM-API-Exercise/index.html",
-    "precache-manifest.c7501602dd8e169ae54e0b35f3dc6235.js": "/ZTM-API-Exercise/precache-manifest.c7501602dd8e169ae54e0b35f3dc6235.js",
+    "precache-manifest.b2a8f003f8861d57ddf7fbc1c5a70118.js": "/ZTM-API-Exercise/precache-manifest.b2a8f003f8861d57ddf7fbc1c5a70118.js",
     "service-worker.js": "/ZTM-API-Exercise/service-worker.js",
     "static/css/main.1bb25e5b.chunk.css.map": "/ZTM-API-Exercise/static/css/main.1bb25e5b.chunk.css.map",
     "static/js/2.42dd37ef.chunk.js.LICENSE.txt": "/ZTM-API-Exercise/static/js/2.42dd37ef.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.0d5f384f.js",
     "static/js/2.42dd37ef.chunk.js",
     "static/css/main.1bb25e5b.chunk.css",
-    "static/js/main.21bc3320.chunk.js"
+    "static/js/main.a54d61b9.chunk.js"
   ]
 }

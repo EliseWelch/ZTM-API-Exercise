@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/ZTM-API-Exercise/precache-manifest.c7501602dd8e169ae54e0b35f3dc6235.js"
+  "/ZTM-API-Exercise/precache-manifest.b2a8f003f8861d57ddf7fbc1c5a70118.js"
 );
 
 self.addEventListener('message', (event) => {
